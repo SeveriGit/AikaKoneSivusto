@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AikatauluKone</title>
+    <link rel="stylesheet" href="tyyli.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    
+    <h1>AikatauluKone</h1>
+    <hr><br>
+    
+    <!--Luodaan lomake-->
+    <label id="haha">Otsikko:</label>
+    <input id="Otks"><br><br>
+    <label>Mistä:</label>
+    <input id="TyAika" type="number" min="0" max="23">
+    <label>Mihin:</label>
+    <input id="PyAika" type="number" min="0" max="23">
+    <br><br>
+    <label>Päivät:</label><br><br>
+    <input id="man" type="checkbox" class="pvt">
+    <label>Maanantai</label><br>
+    <input id="tis" type="checkbox" class="pvt">
+    <label>Tiistai</label><br>
+    <input id="kes" type="checkbox" class="pvt">
+    <label>Keskiviikko</label><br>
+    <input id="tor" type="checkbox" class="pvt">
+    <label>Torstai</label><br>
+    <input id="per" type="checkbox" class="pvt">
+    <label>Perjantai</label><br>
+    <input id="lau" type="checkbox" class="pvt">
+    <label>Lauantai</label><br>
+    <input id="sun" type="checkbox" class="pvt">
+    <label>Sunnuntai</label><br>
+    <br><br>
+    <label>Info:</label>
+    <input id="inf"><br><br>
+    <p id="tyhjä"></p>
+    <br>
+    <button id="btn1">OK</button>
+    <button id="rst">Reset</button>
+    <br><br>
+    <!--Taulun rakenteen luonti-->
+    <div id="taulu1">
+        <table>
+            <tr align="center">
+                <th class="teksti">Aika</th>
+                <th class="teksti">Maanantai</th>
+                <th class="teksti">Tiistai</th>
+                <th class="teksti">Keskiviikko</th>
+                <th class="teksti">Torstai</th>
+                <th class="teksti">Perjantai</th>
+                <th class="teksti">Launtai</th>
+                <th class="teksti">Sunnuntai</th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">0:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">01:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">02:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">03:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">04:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">05:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">06:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">07:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">08:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">09:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">10:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">11:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">12:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">13:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">14:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">15:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">16:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">17:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">18:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">19:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">20:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">21:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">22:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+            <tr align="center">
+                <th class="teksti">23:00</th>
+                <th class="mnt"></th>
+                <th class="tist"></th>
+                <th class="kesk"></th>
+                <th class="tors"></th>
+                <th class="perj"></th>
+                <th class="laun"></th>
+                <th class="sunn"></th>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div id="bx1" draggable="true">
+        <p>XXXXXXXXXXXXXXXXXXXXXXX</p>
+    </div>
+    <br>
+    <div id="bx2" draggable="true">
+        <p>yyyyyyyyyyyyyyyyyy</p>
+    </div>
+
+
+    <script src="koodi.js"></script>
+</body>
+</html>

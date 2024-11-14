@@ -1,0 +1,39 @@
+h1{
+    font-size: 60px;
+    font-family:"Oswald","sans-serif";
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-shadow: 5px 5px 5px grey;
+}
+#taulu1{
+    table, th, tr{
+        border:2px solid;
+        border-collapse: collapse;
+        min-width:100px;
+        min-height: 800px;
+        padding: 2px;
+    }
+}
+.teksti{
+    font-size: 18px;
+}
+.mnt,.tist,.kesk,.tors,.perj,.laun,.sunn{
+    font-size: 15px;
+}
+
+#bx1{
+    cursor: move;
+    border:1px solid;
+    text-align: center;
+    padding: 2px;
+    width: 300px;
+    min-height:20px;
+}
+#bx2{
+    cursor: move;
+    border:1px solid;
+    text-align: center;
+    padding: 2px;
+    width: 300px;
+}
