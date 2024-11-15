@@ -14,12 +14,13 @@
     <hr><br>
     
     <!--Luodaan lomake-->
+    <div>
     <label id="haha">Otsikko:</label>
-    <input id="Otks"><br><br>
+    <input id="Otks" placeholder="Esim. Matikkaa"><br><br>
     <label>Mistä:</label>
-    <input id="TyAika" type="number" min="0" max="23">
+    <input id="TyAika" type="number" min="0" max="23" value="0">
     <label>Mihin:</label>
-    <input id="PyAika" type="number" min="0" max="23">
+    <input id="PyAika" type="number" min="0" max="23" value="0">
     <br><br>
     <label>Päivät:</label><br><br>
     <input id="man" type="checkbox" class="pvt">
@@ -42,7 +43,9 @@
     <p id="tyhjä"></p>
     <br>
     <button id="btn1">OK</button>
-    <button id="rst">Reset</button>
+    <button id="rst">Poista kaikki</button>
+    <button id="rst1">Poista valitut</button>
+    </div>
     <br><br>
     <!--Taulun rakenteen luonti-->
     <div id="taulu1">
@@ -298,15 +301,16 @@
                 <th class="sunn"></th>
             </tr>
         </table>
-    </div>
     <br>
+    <p id="info1"></p>
+    <!--</div>
     <div id="bx1" draggable="true">
         <p>XXXXXXXXXXXXXXXXXXXXXXX</p>
     </div>
     <br>
     <div id="bx2" draggable="true">
         <p>yyyyyyyyyyyyyyyyyy</p>
-    </div>
+    </div>-->
 
 
     <script src="koodi.js"></script>

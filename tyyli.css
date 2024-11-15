@@ -14,6 +14,7 @@ h1{
         min-height: 800px;
         padding: 2px;
     }
+    
 }
 .teksti{
     font-size: 18px;
@@ -22,6 +23,14 @@ h1{
     font-size: 15px;
 }
 
+#info1{
+    font-size: 20px;
+    color: red;
+}
+body{
+    background: linear-gradient(to top, cyan, white);
+    background-attachment: fixed;
+}
 #bx1{
     cursor: move;
     border:1px solid;
