@@ -13,9 +13,16 @@ h1{
         min-width:100px;
         min-height: 800px;
         padding: 2px;
+        background: linear-gradient(to right,#7ff0aa,white);
+        font-family:"Oswald","sans-serif";
     }
-    
+    /*position: fixed;
+    left: 400px;
+    bottom: -1%;*/
 }
+/*#yyy{
+    position: relative;
+}*/
 .teksti{
     font-size: 18px;
 }
@@ -26,6 +33,12 @@ h1{
 #info1{
     font-size: 20px;
     color: red;
+}
+#inf{
+    min-width: 300px;
+    min-height: 100px;
+    /*overflow-y: scroll;*/
+    line-break: auto;
 }
 body{
     background: linear-gradient(to top, cyan, white);

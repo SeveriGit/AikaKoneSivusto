@@ -40,7 +40,7 @@ var laEl = t1.getElementsByClassName("laun")
 const la = document.getElementById("lau");
 var suEl = t1.getElementsByClassName("sunn")
 const su = document.getElementById("sun");
-
+//var kaikkiEl = maEl.concat(tiEl,keEl,toEl,peEl,laEl,suEl);
 
 document.getElementById("btn1").onclick = function(){
     vastaus = document.getElementById("Otks").value;
@@ -75,7 +75,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var maEl3 = Array.from(maEl).slice(aikax,24);
-            var maEl4 = Array.from(maEl).slice(0,aikay+1);
+            var maEl4 = Array.from(tiEl).slice(0,aikay+1);
             var maEl5 = maEl3.concat(maEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -95,7 +95,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var tiEl3 = Array.from(tiEl).slice(aikax,24);
-            var tiEl4 = Array.from(tiEl).slice(0,aikay+1);
+            var tiEl4 = Array.from(keEl).slice(0,aikay+1);
             var tiEl5 = tiEl3.concat(tiEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -115,7 +115,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var keEl3 = Array.from(keEl).slice(aikax,24);
-            var keEl4 = Array.from(keEl).slice(0,aikay+1);
+            var keEl4 = Array.from(toEl).slice(0,aikay+1);
             var keEl5 = keEl3.concat(keEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -135,7 +135,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var toEl3 = Array.from(toEl).slice(aikax,24);
-            var toEl4 = Array.from(toEl).slice(0,aikay+1);
+            var toEl4 = Array.from(peEl).slice(0,aikay+1);
             var toEl5 = toEl3.concat(toEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -155,7 +155,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var peEl3 = Array.from(peEl).slice(aikax,24);
-            var peEl4 = Array.from(peEl).slice(0,aikay+1);
+            var peEl4 = Array.from(laEl).slice(0,aikay+1);
             var peEl5 = peEl3.concat(peEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -175,7 +175,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var laEl3 = Array.from(laEl).slice(aikax,24);
-            var laEl4 = Array.from(laEl).slice(0,aikay+1);
+            var laEl4 = Array.from(suEl).slice(0,aikay+1);
             var laEl5 = laEl3.concat(laEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -195,7 +195,7 @@ document.getElementById("btn1").onclick = function(){
         }
         else if(aikax > aikay){
             var suEl3 = Array.from(suEl).slice(aikax,24);
-            var suEl4 = Array.from(suEl).slice(0,aikay+1);
+            var suEl4 = Array.from(maEl).slice(0,aikay+1);
             var suEl5 = suEl3.concat(suEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
@@ -214,6 +214,11 @@ document.getElementById("btn1").onclick = function(){
         document.getElementById("tyhjä").textContent = "";
     }
     document.getElementById("info1").textContent = vastaus+": "+info;
+    const para = document.createElement("p")
+    const node = document.createTextNode(vastaus+": "+info);
+    para.appendChild(node);
+    const infEl = document.getElementById("VTS");
+    infEl.appendChild(para);
 
 }
 
@@ -246,6 +251,7 @@ document.getElementById("rst").onclick = function(){
     for(var i = 0; i < elts6.length; i++){
         elts6[i].textContent = [];
     }
+    document.getElementById("info1").textContent = "";
 }
 document.getElementById("rst1").onclick = function(){
     aikax = aika.value;
@@ -392,4 +398,5 @@ document.getElementById("rst1").onclick = function(){
             suEl[aikax].textContent = "";
         }
     }
+    
 }
