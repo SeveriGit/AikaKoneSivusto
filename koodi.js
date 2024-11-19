@@ -734,6 +734,319 @@ document.getElementById("btn1").onclick = function(){
             }
         }
         else if(aikax > aikay){
+            if(vik == 1){
+                let t1 = document.getElementById("taulu1");
+                let t2 = document.getElementById("taulu2");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 2){
+                let t1 = document.getElementById("taulu2");
+                let t2 = document.getElementById("taulu3");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 3){
+                let t1 = document.getElementById("taulu3");
+                let t2 = document.getElementById("taulu4");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 4){
+                let t1 = document.getElementById("taulu4");
+                let t2 = document.getElementById("taulu5");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 5){
+                let t1 = document.getElementById("taulu5");
+                let t2 = document.getElementById("taulu6");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 6){
+                let t1 = document.getElementById("taulu6");
+                let t2 = document.getElementById("taulu7");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 7){
+                let t1 = document.getElementById("taulu7");
+                let t2 = document.getElementById("taulu8");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 8){
+                let t1 = document.getElementById("taulu8");
+                let t2 = document.getElementById("taulu9");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 9){
+                let t1 = document.getElementById("taulu9");
+                let t2 = document.getElementById("taulu10");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 10){
+                let t1 = document.getElementById("taulu10");
+                let t2 = document.getElementById("taulu11");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 11){
+                let t1 = document.getElementById("taulu11");
+                let t2 = document.getElementById("taulu12");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 12){
+                let t1 = document.getElementById("taulu12");
+                let t2 = document.getElementById("taulu13");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 13){
+                let t1 = document.getElementById("taulu13");
+                let t2 = document.getElementById("taulu14");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 14){
+                let t1 = document.getElementById("taulu14");
+                let t2 = document.getElementById("taulu15");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 15){
+                let t1 = document.getElementById("taulu15");
+                let t2 = document.getElementById("taulu16");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 16){
+                let t1 = document.getElementById("taulu16");
+                let t2 = document.getElementById("taulu17");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 17){
+                let t1 = document.getElementById("taulu17");
+                let t2 = document.getElementById("taulu18");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 18){
+                let t1 = document.getElementById("taulu18");
+                let t2 = document.getElementById("taulu19");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 19){
+                let t1 = document.getElementById("taulu19");
+                let t2 = document.getElementById("taulu20");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 20){
+                let t1 = document.getElementById("taulu20");
+                let t2 = document.getElementById("taulu21");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 21){
+                let t1 = document.getElementById("taulu21");
+                let t2 = document.getElementById("taulu22");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 22){
+                let t1 = document.getElementById("taulu22");
+                let t2 = document.getElementById("taulu23");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 23){
+                let t1 = document.getElementById("taulu23");
+                let t2 = document.getElementById("taulu24");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 24){
+                let t1 = document.getElementById("taulu24");
+                let t2 = document.getElementById("taulu25");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 25){
+                let t1 = document.getElementById("taulu25");
+                let t2 = document.getElementById("taulu26");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 26){
+                let t1 = document.getElementById("taulu26");
+                let t2 = document.getElementById("taulu27");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 27){
+                let t1 = document.getElementById("taulu27");
+                let t2 = document.getElementById("taulu28");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 28){
+                let t1 = document.getElementById("taulu28");
+                let t2 = document.getElementById("taulu29");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 29){
+                let t1 = document.getElementById("taulu29");
+                let t2 = document.getElementById("taulu30");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 30){
+                let t1 = document.getElementById("taulu30");
+                let t2 = document.getElementById("taulu31");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 31){
+                let t1 = document.getElementById("taulu31");
+                let t2 = document.getElementById("taulu32");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 32){
+                let t1 = document.getElementById("taulu32");
+                let t2 = document.getElementById("taulu33");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 33){
+                let t1 = document.getElementById("taulu33");
+                let t2 = document.getElementById("taulu34");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 34){
+                let t1 = document.getElementById("taulu34");
+                let t2 = document.getElementById("taulu35");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 35){
+                let t1 = document.getElementById("taulu35");
+                let t2 = document.getElementById("taulu36");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 36){
+                let t1 = document.getElementById("taulu36");
+                let t2 = document.getElementById("taulu37");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 37){
+                let t1 = document.getElementById("taulu37");
+                let t2 = document.getElementById("taulu38");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 38){
+                let t1 = document.getElementById("taulu38");
+                let t2 = document.getElementById("taulu39");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 39){
+                let t1 = document.getElementById("taulu39");
+                let t2 = document.getElementById("taulu40");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 40){
+                let t1 = document.getElementById("taulu40");
+                let t2 = document.getElementById("taulu41");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 41){
+                let t1 = document.getElementById("taulu41");
+                let t2 = document.getElementById("taulu42");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 42){
+                let t1 = document.getElementById("taulu42");
+                let t2 = document.getElementById("taulu43");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 43){
+                let t1 = document.getElementById("taulu43");
+                let t2 = document.getElementById("taulu44");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 44){
+                let t1 = document.getElementById("taulu44");
+                let t2 = document.getElementById("taulu45");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 45){
+                let t1 = document.getElementById("taulu45");
+                let t2 = document.getElementById("taulu46");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 46){
+                let t1 = document.getElementById("taulu46");
+                let t2 = document.getElementById("taulu47");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 47){
+                let t1 = document.getElementById("taulu47");
+                let t2 = document.getElementById("taulu48");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 48){
+                let t1 = document.getElementById("taulu48");
+                let t2 = document.getElementById("taulu49");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 49){
+                let t1 = document.getElementById("taulu49");
+                let t2 = document.getElementById("taulu50");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 50){
+                let t1 = document.getElementById("taulu50");
+                let t2 = document.getElementById("taulu51");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 51){
+                let t1 = document.getElementById("taulu51");
+                let t2 = document.getElementById("taulu52");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 52){
+                let t1 = document.getElementById("taulu52");
+                let t2 = document.getElementById("taulu1");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+
             var suEl3 = Array.from(suEl).slice(aikax,24);
             var suEl4 = Array.from(maEl).slice(0,aikay+1);
             var suEl5 = suEl3.concat(suEl4);
@@ -3032,8 +3345,321 @@ document.getElementById("rst1").onclick = function(){
             }
         }
         else if(aikax > aikay){
+            if(vik == 1){
+                let t1 = document.getElementById("taulu1");
+                let t2 = document.getElementById("taulu2");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 2){
+                let t1 = document.getElementById("taulu2");
+                let t2 = document.getElementById("taulu3");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 3){
+                let t1 = document.getElementById("taulu3");
+                let t2 = document.getElementById("taulu4");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 4){
+                let t1 = document.getElementById("taulu4");
+                let t2 = document.getElementById("taulu5");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 5){
+                let t1 = document.getElementById("taulu5");
+                let t2 = document.getElementById("taulu6");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 6){
+                let t1 = document.getElementById("taulu6");
+                let t2 = document.getElementById("taulu7");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 7){
+                let t1 = document.getElementById("taulu7");
+                let t2 = document.getElementById("taulu8");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 8){
+                let t1 = document.getElementById("taulu8");
+                let t2 = document.getElementById("taulu9");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 9){
+                let t1 = document.getElementById("taulu9");
+                let t2 = document.getElementById("taulu10");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 10){
+                let t1 = document.getElementById("taulu10");
+                let t2 = document.getElementById("taulu11");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 11){
+                let t1 = document.getElementById("taulu11");
+                let t2 = document.getElementById("taulu12");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 12){
+                let t1 = document.getElementById("taulu12");
+                let t2 = document.getElementById("taulu13");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 13){
+                let t1 = document.getElementById("taulu13");
+                let t2 = document.getElementById("taulu14");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 14){
+                let t1 = document.getElementById("taulu14");
+                let t2 = document.getElementById("taulu15");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 15){
+                let t1 = document.getElementById("taulu15");
+                let t2 = document.getElementById("taulu16");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 16){
+                let t1 = document.getElementById("taulu16");
+                let t2 = document.getElementById("taulu17");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 17){
+                let t1 = document.getElementById("taulu17");
+                let t2 = document.getElementById("taulu18");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 18){
+                let t1 = document.getElementById("taulu18");
+                let t2 = document.getElementById("taulu19");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 19){
+                let t1 = document.getElementById("taulu19");
+                let t2 = document.getElementById("taulu20");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 20){
+                let t1 = document.getElementById("taulu20");
+                let t2 = document.getElementById("taulu21");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 21){
+                let t1 = document.getElementById("taulu21");
+                let t2 = document.getElementById("taulu22");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 22){
+                let t1 = document.getElementById("taulu22");
+                let t2 = document.getElementById("taulu23");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 23){
+                let t1 = document.getElementById("taulu23");
+                let t2 = document.getElementById("taulu24");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 24){
+                let t1 = document.getElementById("taulu24");
+                let t2 = document.getElementById("taulu25");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 25){
+                let t1 = document.getElementById("taulu25");
+                let t2 = document.getElementById("taulu26");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 26){
+                let t1 = document.getElementById("taulu26");
+                let t2 = document.getElementById("taulu27");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 27){
+                let t1 = document.getElementById("taulu27");
+                let t2 = document.getElementById("taulu28");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 28){
+                let t1 = document.getElementById("taulu28");
+                let t2 = document.getElementById("taulu29");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 29){
+                let t1 = document.getElementById("taulu29");
+                let t2 = document.getElementById("taulu30");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 30){
+                let t1 = document.getElementById("taulu30");
+                let t2 = document.getElementById("taulu31");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 31){
+                let t1 = document.getElementById("taulu31");
+                let t2 = document.getElementById("taulu32");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 32){
+                let t1 = document.getElementById("taulu32");
+                let t2 = document.getElementById("taulu33");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 33){
+                let t1 = document.getElementById("taulu33");
+                let t2 = document.getElementById("taulu34");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 34){
+                let t1 = document.getElementById("taulu34");
+                let t2 = document.getElementById("taulu35");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 35){
+                let t1 = document.getElementById("taulu35");
+                let t2 = document.getElementById("taulu36");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 36){
+                let t1 = document.getElementById("taulu36");
+                let t2 = document.getElementById("taulu37");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 37){
+                let t1 = document.getElementById("taulu37");
+                let t2 = document.getElementById("taulu38");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 38){
+                let t1 = document.getElementById("taulu38");
+                let t2 = document.getElementById("taulu39");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 39){
+                let t1 = document.getElementById("taulu39");
+                let t2 = document.getElementById("taulu40");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 40){
+                let t1 = document.getElementById("taulu40");
+                let t2 = document.getElementById("taulu41");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 41){
+                let t1 = document.getElementById("taulu41");
+                let t2 = document.getElementById("taulu42");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 42){
+                let t1 = document.getElementById("taulu42");
+                let t2 = document.getElementById("taulu43");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 43){
+                let t1 = document.getElementById("taulu43");
+                let t2 = document.getElementById("taulu44");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 44){
+                let t1 = document.getElementById("taulu44");
+                let t2 = document.getElementById("taulu45");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 45){
+                let t1 = document.getElementById("taulu45");
+                let t2 = document.getElementById("taulu46");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 46){
+                let t1 = document.getElementById("taulu46");
+                let t2 = document.getElementById("taulu47");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 47){
+                let t1 = document.getElementById("taulu47");
+                let t2 = document.getElementById("taulu48");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 48){
+                let t1 = document.getElementById("taulu48");
+                let t2 = document.getElementById("taulu49");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 49){
+                let t1 = document.getElementById("taulu49");
+                let t2 = document.getElementById("taulu50");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 50){
+                let t1 = document.getElementById("taulu50");
+                let t2 = document.getElementById("taulu51");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 51){
+                let t1 = document.getElementById("taulu51");
+                let t2 = document.getElementById("taulu52");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+            if(vik == 52){
+                let t1 = document.getElementById("taulu52");
+                let t2 = document.getElementById("taulu1");
+                var suEl = t1.getElementsByClassName("sunn");
+                var maEl = t2.getElementsByClassName("mnt");
+            }
+
             var suEl3 = Array.from(suEl).slice(aikax,24);
-            var suEl4 = Array.from(suEl).slice(0,aikay+1);
+            var suEl4 = Array.from(maEl).slice(0,aikay+1);
             var suEl5 = suEl3.concat(suEl4);
             var f1 = 24-aikax+aikay; 
             for(var i = 0; i <= f1; i++){
