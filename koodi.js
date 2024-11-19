@@ -22,6 +22,7 @@ console.log(tal1);*/
 let vastaus;
 let aikax;
 let aikay;
+let vik;
 const t1 = document.getElementById("taulu1");
 const aika = document.getElementById("TyAika");
 const aikaa = document.getElementById("PyAika");
@@ -30,16 +31,17 @@ var maEl = t1.getElementsByClassName("mnt");
 const ma = document.getElementById("man");
 var tiEl = t1.getElementsByClassName("tist");
 const ti = document.getElementById("tis");
-var keEl = t1.getElementsByClassName("kesk")
+var keEl = t1.getElementsByClassName("kesk");
 const ke = document.getElementById("kes");
-var toEl = t1.getElementsByClassName("tors")
+var toEl = t1.getElementsByClassName("tors");
 const to = document.getElementById("tor");
-var peEl = t1.getElementsByClassName("perj")
+var peEl = t1.getElementsByClassName("perj");
 const pe = document.getElementById("per");
-var laEl = t1.getElementsByClassName("laun")
+var laEl = t1.getElementsByClassName("laun");
 const la = document.getElementById("lau");
-var suEl = t1.getElementsByClassName("sunn")
+var suEl = t1.getElementsByClassName("sunn");
 const su = document.getElementById("sun");
+var viikko = document.getElementById("viikko");
 //var kaikkiEl = maEl.concat(tiEl,keEl,toEl,peEl,laEl,suEl);
 
 document.getElementById("btn1").onclick = function(){
@@ -213,12 +215,12 @@ document.getElementById("btn1").onclick = function(){
     else{
         document.getElementById("tyhjä").textContent = "";
     }
-    document.getElementById("info1").textContent = vastaus+": "+info;
+    /*document.getElementById("info1").textContent = vastaus+": "+info;
     const para = document.createElement("p")
     const node = document.createTextNode(vastaus+": "+info);
     para.appendChild(node);
     const infEl = document.getElementById("VTS");
-    infEl.appendChild(para);
+    infEl.appendChild(para);*/
 
 }
 
@@ -398,5 +400,84 @@ document.getElementById("rst1").onclick = function(){
             suEl[aikax].textContent = "";
         }
     }
+}
+//var tlk = [];
+//const taulukot = [t1,t2];
+/*switch(taulukot){
+    case vik === 1:
+        t1.style.display = "table";
+        break;
+    case vik === 2:
+        t1.style.display = "none";
+        break;
+}*/
+
+
+/*function kopio(){
+    munTaulu = document.getElementById("taulu1");
+    munKlooni = munTaulu.cloneNode(true);
+    document.body.appendChild(munKlooni);
+    munKlooni.style.display = "none";
+*///}
+/*function varCr(){
+    var taulut = [];
+    for(var i = 1; i<=52; i++){
+        taulut[i] = kopio();
+        //taulut[i].style.display = "none";
+    }
+    /*tt1 = taulut[1];
+    tt2 = taulut[2];
+    var hhh = kopio(munKlooni);
+    kopio();
+    //document.body.appendChild(hhh);
+    //document.body.appendChild(tt1);
+}*/
+
+document.getElementById("vvv").onclick = function(){
+    vik = viikko.value;
+    vik = Number(vik);
+
     
+
+    /*const taulut = [];
+    console.log(typeof taulut);
+    for(var i = 0; i<=51; i++){
+        munTaulu = document.getElementById("taulu1");
+        munKlooni = munTaulu.cloneNode(true);
+        document.body.appendChild(munKlooni);
+        munKlooni.style.display = "none";
+        taulut.push(munKlooni);
+    }*/
+
+    /*switch (vik){
+        case 1:
+            t1.style.display = "table";
+            for(var i = 0; i <= taulut.length; i++){
+                taulut[i].style.display = "none";
+            }
+            break;
+        case 2:
+            taulut[0].style.display = "table";
+            t1.style.display = "none";
+            for(var i = 1; i <= taulut.length; i++){
+                taulut[i].style.display = "none";
+            }
+            break;
+        case 3:
+            break;
+    }*/
+    
+    /*if(vik === 1){
+        t1.style.display = "table";
+        taulut[0].style.display = "none";
+        for(let i = 0; i < taulut.length; i++){
+            taulut[i].style.display = "none";
+        }}
+    else if(vik === 2){
+        
+        t1.style.display = "none";
+        for(let i = 0; i < taulut.length; i++){
+            taulut[i].style.display = "none";
+        }}
+        taulut[0].style.display = "table";*/
 }
