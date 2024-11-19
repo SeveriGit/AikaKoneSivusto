@@ -6,7 +6,10 @@ h1{
     margin-bottom: 0px;
     text-shadow: 5px 5px 5px grey;
 }
-#taulu1{
+#taulu1,#taulu2,#taulu3,#taulu4,#taulu5,#taulu6,#taulu7,#taulu8,#taulu9,#taulu10,#taulu11,#taulu12,#taulu13,#taulu14,#taulu15,#taulu16,#taulu17,
+#taulu18,#taulu19,#taulu20,#taulu21,#taulu22,#taulu23,#taulu24,#taulu25,#taulu26,#taulu27,#taulu28,#taulu29,#taulu30,#taulu31,#taulu32,#taulu33,
+#taulu34,#taulu35,#taulu36,#taulu37,#taulu38,#taulu39,#taulu40,#taulu41,#taulu42,#taulu43,#taulu44,#taulu45,#taulu46,#taulu47,#taulu48,#taulu49,
+#taulu50,#taulu51,#taulu52{
     table, th, tr{
         border:2px solid;
         border-collapse: collapse;
