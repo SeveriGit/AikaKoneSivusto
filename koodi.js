@@ -825,6 +825,1557 @@ document.getElementById("rst").onclick = function(){
             elts6[i].textContent = [];
         }
     }
+    if(vik == 3){
+        let t1 = document.getElementById("taulu3");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 4){
+        let t1 = document.getElementById("taulu4");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 5){
+        let t1 = document.getElementById("taulu5");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 6){
+        let t1 = document.getElementById("taulu6");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 7){
+        let t1 = document.getElementById("taulu7");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 8){
+        let t1 = document.getElementById("taulu8");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 9){
+        let t1 = document.getElementById("taulu9");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 10){
+        let t1 = document.getElementById("taulu10");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 11){
+        let t1 = document.getElementById("taulu11");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 12){
+        let t1 = document.getElementById("taulu12");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 13){
+        let t1 = document.getElementById("taulu13");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 14){
+        let t1 = document.getElementById("taulu14");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 15){
+        let t1 = document.getElementById("taulu15");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 16){
+        let t1 = document.getElementById("taulu16");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 17){
+        let t1 = document.getElementById("taulu17");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 18){
+        let t1 = document.getElementById("taulu18");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 19){
+        let t1 = document.getElementById("taulu19");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 20){
+        let t1 = document.getElementById("taulu20");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 21){
+        let t1 = document.getElementById("taulu21");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 22){
+        let t1 = document.getElementById("taulu22");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 23){
+        let t1 = document.getElementById("taulu23");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 24){
+        let t1 = document.getElementById("taulu24");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 25){
+        let t1 = document.getElementById("taulu25");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 26){
+        let t1 = document.getElementById("taulu26");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 27){
+        let t1 = document.getElementById("taulu27");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 28){
+        let t1 = document.getElementById("taulu28");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 29){
+        let t1 = document.getElementById("taulu29");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 30){
+        let t1 = document.getElementById("taulu30");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 31){
+        let t1 = document.getElementById("taulu31");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 32){
+        let t1 = document.getElementById("taulu32");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 33){
+        let t1 = document.getElementById("taulu33");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 34){
+        let t1 = document.getElementById("taulu34");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 35){
+        let t1 = document.getElementById("taulu35");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 36){
+        let t1 = document.getElementById("taulu36");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 37){
+        let t1 = document.getElementById("taulu37");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 38){
+        let t1 = document.getElementById("taulu38");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 39){
+        let t1 = document.getElementById("taulu39");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 40){
+        let t1 = document.getElementById("taulu40");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 41){
+        let t1 = document.getElementById("taulu41");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 42){
+        let t1 = document.getElementById("taulu42");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 43){
+        let t1 = document.getElementById("taulu43");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 44){
+        let t1 = document.getElementById("taulu44");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 45){
+        let t1 = document.getElementById("taulu45");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 46){
+        let t1 = document.getElementById("taulu46");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 47){
+        let t1 = document.getElementById("taulu47");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 48){
+        let t1 = document.getElementById("taulu48");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 49){
+        let t1 = document.getElementById("taulu49");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 50){
+        let t1 = document.getElementById("taulu50");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 51){
+        let t1 = document.getElementById("taulu51");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+    if(vik == 52){
+        let t1 = document.getElementById("taulu52");
+        var elts = t1.getElementsByClassName("mnt");
+        for(var i = 0; i < elts.length; i++){
+            elts[i].textContent = [];
+        }
+        var elts1 = t1.getElementsByClassName("tist");
+        for(var i = 0; i < elts1.length; i++){
+            elts1[i].textContent = [];
+        }
+        var elts2 = t1.getElementsByClassName("kesk");
+        for(var i = 0; i < elts2.length; i++){
+            elts2[i].textContent = [];
+        }
+        var elts3 = t1.getElementsByClassName("tors");
+        for(var i = 0; i < elts3.length; i++){
+            elts3[i].textContent = [];
+        }
+        var elts4 = t1.getElementsByClassName("perj");
+        for(var i = 0; i < elts4.length; i++){
+            elts4[i].textContent = [];
+        }
+        var elts5 = t1.getElementsByClassName("laun");
+        for(var i = 0; i < elts5.length; i++){
+            elts5[i].textContent = [];
+        }
+        var elts6 = t1.getElementsByClassName("sunn");
+        for(var i = 0; i < elts6.length; i++){
+            elts6[i].textContent = [];
+        }
+    }
+
     //document.getElementById("info1").textContent = "";
 }
 document.getElementById("rst1").onclick = function(){
@@ -832,6 +2383,527 @@ document.getElementById("rst1").onclick = function(){
     aikax = Number(aikax);
     aikay = aikaa.value;
     aikay = Number(aikay);
+    if(vik == 1){
+        let t1 = document.getElementById("taulu1");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 2){
+        let t1 = document.getElementById("taulu2");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 3){
+        let t1 = document.getElementById("taulu3");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 4){
+        let t1 = document.getElementById("taulu4");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 5){
+        let t1 = document.getElementById("taulu5");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 6){
+        let t1 = document.getElementById("taulu6");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 7){
+        let t1 = document.getElementById("taulu7");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 8){
+        let t1 = document.getElementById("taulu8");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 9){
+        let t1 = document.getElementById("taulu9");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 10){
+        let t1 = document.getElementById("taulu10");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 11){
+        let t1 = document.getElementById("taulu11");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 12){
+        let t1 = document.getElementById("taulu12");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 13){
+        let t1 = document.getElementById("taulu13");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 14){
+        let t1 = document.getElementById("taulu14");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 15){
+        let t1 = document.getElementById("taulu15");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 16){
+        let t1 = document.getElementById("taulu16");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 17){
+        let t1 = document.getElementById("taulu17");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 18){
+        let t1 = document.getElementById("taulu18");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 19){
+        let t1 = document.getElementById("taulu19");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 20){
+        let t1 = document.getElementById("taulu20");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 21){
+        let t1 = document.getElementById("taulu21");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 22){
+        let t1 = document.getElementById("taulu22");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 23){
+        let t1 = document.getElementById("taulu23");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 24){
+        let t1 = document.getElementById("taulu24");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }    
+    if(vik == 25){
+        let t1 = document.getElementById("taulu25");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }    
+    if(vik == 26){
+        let t1 = document.getElementById("taulu26");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 27){
+        let t1 = document.getElementById("taulu27");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 28){
+        let t1 = document.getElementById("taulu28");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 29){
+        let t1 = document.getElementById("taulu29");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 30){
+        let t1 = document.getElementById("taulu30");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 31){
+        let t1 = document.getElementById("taulu31");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 32){
+        let t1 = document.getElementById("taulu32");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 33){
+        let t1 = document.getElementById("taulu33");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 34){
+        let t1 = document.getElementById("taulu34");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 35){
+        let t1 = document.getElementById("taulu35");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 36){
+        let t1 = document.getElementById("taulu36");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 37){
+        let t1 = document.getElementById("taulu37");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 38){
+        let t1 = document.getElementById("taulu38");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    } 
+    if(vik == 39){
+        let t1 = document.getElementById("taulu39");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 40){
+        let t1 = document.getElementById("taulu40");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 41){
+        let t1 = document.getElementById("taulu41");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 42){
+        let t1 = document.getElementById("taulu42");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 43){
+        let t1 = document.getElementById("taulu43");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 44){
+        let t1 = document.getElementById("taulu44");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 45){
+        let t1 = document.getElementById("taulu45");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 46){
+        let t1 = document.getElementById("taulu46");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 47){
+        let t1 = document.getElementById("taulu47");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 48){
+        let t1 = document.getElementById("taulu48");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 49){
+        let t1 = document.getElementById("taulu49");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 50){
+        let t1 = document.getElementById("taulu50");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 51){
+        let t1 = document.getElementById("taulu51");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+    if(vik == 52){
+        let t1 = document.getElementById("taulu52");
+        var maEl = t1.getElementsByClassName("mnt");
+        var tiEl = t1.getElementsByClassName("tist");
+        var keEl = t1.getElementsByClassName("kesk");
+        var toEl = t1.getElementsByClassName("tors");
+        var peEl = t1.getElementsByClassName("perj");
+        var laEl = t1.getElementsByClassName("laun");
+        var suEl = t1.getElementsByClassName("sunn");
+    }
+
     if(ma.checked){
         if(aikax < aikay){
             var maEl2 = Array.from(maEl).slice(aikax,aikay+1);
