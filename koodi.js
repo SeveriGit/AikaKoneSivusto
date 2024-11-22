@@ -1,39 +1,13 @@
-/*function swapElm(){
-    document.getElementById(target.id).replaceWith();
-}
-//taulu1.addEventListener("ondrop", function(){
-    //document.getElementById(target.id).replaceWith();
-//});
-/*function swapElm1(){
-
-}
-
-/*let taulu2 = document.getElementById("taulu1");
-
-let tal1 = [Object.getOwnPropertyNames(taulu2)];
-console.log(tal1[1]);
-
-let aar = Array.isArray(taulu2);
-console.log(aar);
-console.log(taulu2);
-console.log(tal1);*/
-//console.log(typeof );
 
 let vastaus;
 let aikax;
 let aikay;
 let vik;
 var viikko = document.getElementById("viikko");
+
 vik = viikko.value;
 vik = Number(vik);
-/*if(vik == 1){
-    const t1 = document.getElementById("taulu1");
-}
-if(vik == 2){
-    const t1 = document.getElementById("taulu2");
-}*/
-//const t1 = document.getElementById("taulu1");
-//const t2 = document.getElementById("taulu2");
+
 const aika = document.getElementById("TyAika");
 const aikaa = document.getElementById("PyAika");
 const pvts = document.getElementsByClassName("pvt");
@@ -46,20 +20,9 @@ const pe = document.getElementById("per");
 const la = document.getElementById("lau");
 const su = document.getElementById("sun");
 
-/*var maEl = t1.getElementsByClassName("mnt");
-var tiEl = t1.getElementsByClassName("tist");
-var keEl = t1.getElementsByClassName("kesk");
-var toEl = t1.getElementsByClassName("tors");
-var peEl = t1.getElementsByClassName("perj");
-var laEl = t1.getElementsByClassName("laun");
-var suEl = t1.getElementsByClassName("sunn");*/
-//var kaikkiEl = maEl.concat(tiEl,keEl,toEl,peEl,laEl,suEl);
-
 document.getElementById("btn1").onclick = function(){
     vastaus = document.getElementById("Otks").value;
     info = document.getElementById("inf").value;
-    //document.getElementById("ax").textContent = vastaus;
-    //pvts = document.getElementsByClassName("pvt").value;
     aikax = aika.value;
     aikax = Number(aikax);
     aikay = aikaa.value;
@@ -586,25 +549,6 @@ document.getElementById("btn1").onclick = function(){
         var laEl = t1.getElementsByClassName("laun");
         var suEl = t1.getElementsByClassName("sunn");
     }
-
-    /*if(vik == 2){
-        aikax = aikax + 170;
-        aikay = aikay + 170;
-    }*/
-    
-    //console.log(aikay);
-    /*if(0 === aikax || aikax < 0.6){
-        var elts = t1.getElementsByClassName("nol");
-        for(var i = 0; i < elts.length; i++){
-            elts[i].textContent = vastaus;
-        }  
-    }
-    else if(1 === aikax || aikax < 1.6){
-        var elts = t1.getElementsByClassName("yks");
-        for(var i = 0; i < elts.length; i++){
-            elts[i].textContent = vastaus;
-        }  
-    }*/
     
     if(ma.checked){
         if(aikax < aikay){
@@ -1063,16 +1007,11 @@ document.getElementById("btn1").onclick = function(){
         &&la.checked === false&&su.checked === false){
             document.getElementById("tyhjä").textContent = "Puuttuu tietoja";
     }
-    else{
-        document.getElementById("tyhjä").textContent = "";
-    }
-    /*document.getElementById("info1").textContent = vastaus+": "+info;
     const para = document.createElement("p")
     const node = document.createTextNode(vastaus+": "+info);
     para.appendChild(node);
-    const infEl = document.getElementById("VTS");
-    infEl.appendChild(para);*/
-
+    const infDiv = document.getElementById("infot");
+    infDiv.appendChild(para);
 }
 
 document.getElementById("rst").onclick = function(){
@@ -2688,9 +2627,8 @@ document.getElementById("rst").onclick = function(){
             elts6[i].textContent = [];
         }
     }
-
-    //document.getElementById("info1").textContent = "";
 }
+
 document.getElementById("rst1").onclick = function(){
     aikax = aika.value;
     aikax = Number(aikax);
@@ -3671,47 +3609,6 @@ document.getElementById("rst1").onclick = function(){
         }
     }
 }
-//var tlk = [];
-//const taulukot = [t1,t2];
-/*switch(taulukot){
-    case vik === 1:
-        t1.style.display = "table";
-        break;
-    case vik === 2:
-        t1.style.display = "none";
-        break;
-}*/
-
-
-/*function kopio(){
-    munTaulu = document.getElementById("taulu1");
-    munKlooni = munTaulu.cloneNode(true);
-    document.body.appendChild(munKlooni);
-    munKlooni.style.display = "none";
-*///}
-/*function varCr(){
-    var taulut = [];
-    for(var i = 1; i<=52; i++){
-        taulut[i] = kopio();
-        //taulut[i].style.display = "none";
-    }
-    /*tt1 = taulut[1];
-    tt2 = taulut[2];
-    var hhh = kopio(munKlooni);
-    kopio();
-    //document.body.appendChild(hhh);
-    //document.body.appendChild(tt1);
-}*/
-
-/*const taulut = [];
-for(var i = 0; i<=51; i++){
-    munTaulu = document.getElementById("taulu1");
-    munKlooni = munTaulu.cloneNode(true);
-    munKlooni.id = "taulu1";
-    document.body.appendChild(munKlooni);
-    munKlooni.style.display = "none";
-    taulut.push(munKlooni);
-}*/
 
 window.onload = function(){
     let t2 = document.getElementById("taulu2");
@@ -3824,39 +3721,6 @@ window.onload = function(){
 document.getElementById("vvv").onclick = function(){
     vik = viikko.value;
     vik = Number(vik);
-
-    /*switch (vik){
-        case 1:
-            t1.style.display = "table";
-            for(var i = 0; i <= taulut.length; i++){
-                taulut[i].style.display = "none";
-            }
-            break;
-        case 2:
-            taulut[0].style.display = "table";
-            t1.style.display = "none";
-            for(var i = 1; i <= taulut.length; i++){
-                taulut[i].style.display = "none";
-            }
-            break;
-        case 3:
-            break;
-    }*/
-    /*(() => {
-            t2;
-        })();
-        /*for(let i = 0; i < taulut.length; i++){
-            taulut[i].style.display = "none";
-        }*/
-    /*(() => {
-            t1;
-        })();
-        /*for(let i = 1; i < taulut.length; i++){
-            taulut[i].style.display = "none";
-        }*/
-    /*for(let i = 2; i < taulut.length; i++){
-            taulut[i].style.display = "none";
-        }*/
 
     let t1 = document.getElementById("taulu1");
     let t2 = document.getElementById("taulu2");

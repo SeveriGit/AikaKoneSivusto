@@ -6,7 +6,7 @@
     <title>AikatauluKone</title>
     <link rel="stylesheet" href="tyyli.css">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Parkinsans:wght@300..800&display=swap" rel="stylesheet">
 </head>
 <body>
     
@@ -14,9 +14,21 @@
     <hr><br>
     
     <!--Luodaan lomake-->
+    
+    <p id="ohjeet">Ohje:</p>
+    <div id="ohj">
+    <p>"Otsikko" kohta määrittää millä nimellä asia näkyy taulukossa</p>
+    <p>"Mistä" kohta kertoo mistä kellon ajasta ja "Mihin" kertoo mihin asti</p>
+    <p>"Päivät" kohta kertoo mihin päiviin haluat lisätä tietoa</p>
+    <p>"Info" kohtaan voi kertoa lisätietoa otsikosta</p>
+    <p>"OK" nappi lisää tiedot, "Poista kaikki" poistaa kaikki tiedot viikolta</p>
+    <p>"Poista valitut" poistaa aikojen ja valituiden päivien perusteella tietoja taulukosta</p>
+    <p>"Viikko" kohdassa voit valita viikkonumeron johon haluat lisätä tietoa, <b>MUISTA</b> painaa valitse</p>
+    </div>
     <div id="yyy">
     <label id="haha">Otsikko:</label>
-    <input id="Otks" placeholder="Esim. Matikkaa"><br><br>
+    <input id="Otks" placeholder="Esim. Matikkaa">
+    <br><br>
     <label>Mistä:</label>
     <input id="TyAika" type="number" min="0" max="23" value="0">
     <label>Mihin:</label>
@@ -40,16 +52,15 @@
     <br><br>
     <label>Info:</label>
     <input id="inf"><br><br>
-    <p id="tyhjä"></p>
     <br>
     <button id="btn1">OK</button>
     <button id="rst">Poista kaikki</button>
     <button id="rst1">Poista valitut</button>
-    </div>
-    <br>
+    <br><br>
     <label>Viikko: </label>
     <input  id="viikko" type="number" min="1" max="52" value="1">
     <button id="vvv">Valitse</button>
+    </div>
     <br><br>
     <!--Taulun rakenteen luonti-->
     <div id="taulu1">
@@ -13260,22 +13271,10 @@
             </tr>
         </table>
     </div>
-
-    
-    <!--<div id="VTS">
-    <p id="info1"></p>
-    
-    </div>-->
-
-    <!--
-    <div id="bx1" draggable="true">
-        <p>XXXXXXXXXXXXXXXXXXXXXXX</p>
-    </div>
     <br>
-    <div id="bx2" draggable="true">
-        <p>yyyyyyyyyyyyyyyyyy</p>
-    </div>-->
-
+    <br>
+    <p id="liinf"><b>Lisäinfo:</b></p>
+    <div id="infot"></div>
 
     <script src="koodi.js"></script>
 </body>
