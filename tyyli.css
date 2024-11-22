@@ -59,6 +59,6 @@ body{
 }
 #liinf{
     font-size: 20px;
-    font-family: "Parkinsans",sans-serif;
+    font-family: "Parkinsans","sans-serif";
     color: red;
 }
